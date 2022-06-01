@@ -18,9 +18,7 @@ github_username: "sapatha2"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "midnight"
-
-rss: rss
+theme: "minima"
 
 kramdown:
   syntax_highlighter_opts:
