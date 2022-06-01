@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+If you want to know about my scientific credentials, take a peek at my bio. Otherwise, I post frequently with details about my work day-to-day. The posts are highly technical and I am not intending to make much attempt to be non-technical. Hopefully this helps grad students or people looking to be a theoretical/computational physicist get a grasp on what we do after our PhDs.
